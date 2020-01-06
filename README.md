@@ -1,3 +1,3 @@
-# GAN Variational AutoEncoders
+# GANs and Variational AutoEncoders
 
 Course assignments of https://www.udemy.com/course/deep-learning-gans-and-variational-autoencoders/
